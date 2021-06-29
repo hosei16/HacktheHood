@@ -1,3 +1,1 @@
 # HacktheHood
-# test
-# HacktheHood
